@@ -3,7 +3,7 @@ This is a facebook connector to do various operation on a facebook page using [F
 The following actions are supported:
 
 1. Create a new alburm on a specific page.
-2. Publish a post on a specific page.
+2. Publish a post on a specific page .
 3. To get Account details.
 4. To get the Feed Page.
 5. To get the User details.
